@@ -3,7 +3,7 @@
 | Test | Points |
 | ---- | ------ |
 | ./testable1 foo | 10 |
-| ./testable1 bar | 0 |
+| ./testable1 bar | 10 |
 ## make testable2
 | Test | Points |
 | ---- | ------ |

@@ -3,10 +3,10 @@
 | Test | Points |
 | ---- | ------ |
 | ./testable1 foo | 10 |
-| ./testable1 bar | 10 |
+| ./testable1 bar | 0 |
 ## make testable2
 | Test | Points |
 | ---- | ------ |
 | ./testable2 foo | 10 |
 | ./testable2 bar | 10 |
-Graded at 2016-03-07 14:33:10 -0800
+Graded at 2016-03-07 14:34:50 -0800

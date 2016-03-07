@@ -7,6 +7,6 @@
 ## make testable2
 | Test | Points |
 | ---- | ------ |
-| ./testable2 foo | 10 |
+| ./testable2 foo | 0 |
 | ./testable2 bar | 10 |
-Graded at 2016-03-07 14:35:34 -0800
+Graded at 2016-03-07 14:36:25 -0800
